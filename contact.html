@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us! ₊˚⊹</title>
     <link rel="stylesheet" href="stylesheet.css">    
+    <script src="script.js"></script>
 </head>
     
 <body>
@@ -59,7 +60,11 @@
                     <input id="email" name="email" title="Include an @."  aria-describedby="errorMail" aria-invalid="true" required>
                     <p id="errorMail" class="error">Please enter a valid e-mail address. </p>
                 </div>
-                <label><input type="checkbox" name="news" value="yes">Get e-mails and texts for site updates?</label>
+                <div>
+                    <label for="msg">What do you need help with?</label>
+                    <textarea id="text" rows="3" maxlength="800" placeholder="Be sure to give a detailed response."></textarea>
+                    <p><span id="counter">0</span> / 800</p>
+                </div>
                 
                 <button type="submit">Submit</button>
             </form>
