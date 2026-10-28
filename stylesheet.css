@@ -144,7 +144,7 @@ nav ul {
     width:100%;
     border-bottom:1px solid black;
     z-index:2;
-    font-family:videoPhreak;
+    font-family:light;
     border-bottom-right-radius:20px;
     background-image:url(images/homeNavGraphic.jpg);
     background-size:cover;
@@ -337,7 +337,7 @@ legend {
 }
 
 .submittedHeader {
-    font-family:videoPhreak;
+    font-family:light;
     color:cyan;
 }
 
