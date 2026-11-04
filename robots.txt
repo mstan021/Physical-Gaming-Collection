@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/mstan021/Physical-Gaming-Collection/blob/bd429402c65c0499b2d3d0bf3959a250aa78fb58/sitemap.xml
