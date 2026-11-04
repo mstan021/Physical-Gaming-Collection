@@ -1,0 +1,28 @@
+Index changes:
+==============
+Added a description for this page, "A website full of information about retro gaming, come see a gallery with our top gaming picks, read about old consoles, and get in contact with us to get back with old games you miss!"
+Added an open graph attribute, page is classified as a website.
+
+
+About changes:
+==============
+Added a description for this page, "A place to read about our goals and the purpose of this site, hear about our love for physical tech, and why you should love it too!"
+Added an open graph attribute, page is classified as an article.
+
+
+TopTen changes:
+==============
+Added a description for this page, "Our top ten best games list, games sold as mostly or only physical fit the criteria of this list!"
+Added an open graph attribute, page is classified as an article.
+
+
+Gallery changes:
+==============
+Added a description for this page, "A gallery full of old screenshots, concept art, and development images for your favorite retro and older games!"
+Added an open graph attribute, page is classified as a website.
+
+
+Contact changes:
+==============
+Added a description for this page, "Our contact form, get in touch with us so we can help you replay your favorite childhood games!"
+Added an open graph attribute, page is classified as a website.
