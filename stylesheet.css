@@ -57,7 +57,7 @@
 }
 
 html {
-    background-image:url(images/homeBG.jpg);
+    background-image:url(images/homeBG.webp);
     overflow-x:hidden;
     overflow-y:auto;
 }
@@ -79,7 +79,7 @@ h2 {
 h3 {
     font-family:light;
     margin-bottom:5px;
-    color:darkcyan;
+    color:#17344a;
     font-weight:50;
 }
 
@@ -149,7 +149,7 @@ nav ul {
     z-index:2;
     font-family:light;
     border-bottom-right-radius:20px;
-    background-image:url(images/homeNavGraphic.jpg);
+    background-image:url(images/homeNavGraphic.webp);
     background-size:cover;
     background-position:center;
 }
