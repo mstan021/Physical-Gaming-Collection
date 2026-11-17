@@ -31,16 +31,19 @@
 @font-face {
     font-family:light;
     src:url(fonts/Futury-Light.ttf);
+    font-display:optional;
 }
 
 @font-face {
     font-family:videoPhreak;
     src:url(fonts/videoPhreak.ttf);
+    font-display:optional;
 }
 
 @font-face {
     font-family: windows;
     src: url(https://dl.dropbox.com/s/cn0l1yjacta4whv/W95FA.otf);
+    font-display:optional;
 }
 
 ::-webkit-scrollbar {
